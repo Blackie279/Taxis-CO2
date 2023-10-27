@@ -27,7 +27,7 @@ El análisis se lleva a cabo en un período de cuatro semanas, distribuido de la
 En esta etapa inicial, se enfoca en comprender a fondo la problemática, establecer los objetivos específicos del proyecto y poner en marcha las actividades necesarias.
 
 ### Semana 2: Análisis Profundo de los Datos e Informes
-Durante la segunda semana, se realiza un análisis exhaustivo de los datos recopilados y se generan informes detallados para obtener una comprensión completa del panorama actual.
+El trabajo de la segunda semana del proyecto estuvo orientado a la ingeniería de datos, a la extracción, limpieza y carga de los mismos a la estructura de Data Warehouse elegida
 
 ### Semana 3: Selección, Preparación y Entrenamiento de un Modelo de Machine Learning
 En esta etapa, se selecciona un modelo de machine learning adecuado, se preparan los datos y se procede a entrenar el modelo para llevar a cabo las predicciones y análisis necesarios.
