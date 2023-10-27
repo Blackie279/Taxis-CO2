@@ -80,3 +80,6 @@ Los Data Engineers en nuestro equipo se centran principalmente en tareas relacio
 
 Los Data Engineers se dedican principalmente a labores vinculadas con la ingeniería de datos. Su función primordial es diseñar, implementar y mantener las infraestructuras de datos y los pipelines que facilitan la recolección, procesamiento y almacenamiento eficaz de la información.
 
+## Flujo de trabajo - Diagrama de Gantt
+[Click here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRDAku0N05gw6yRoVvx4lRjuNDqZNwWEoO_Z4Xl1MBCnRSfeX7JnhesaMt92KEtM_wYRuHNJmFYy2HI/pubhtml)
+
