@@ -48,18 +48,17 @@ GCP se destaca como una de las principales plataformas de servicios en la nube, 
 
 - **Machine Learning e Inteligencia Artificial:** GCP nos brinda herramientas predefinidas por Google para implementar soluciones de Machine Learning e Inteligencia Artificial.
 
-- **Big Data y Análisis Avanzado:** GCP proporciona servicios y herramientas sólidas para el procesamiento de big data, como BigQuery, que hemos aprovechado para nuestras necesidades de análisis avanzado.
 
 
 ## Roles
 
-En nuestro proyecto, contamos con cuatro roles fundamentales:
+En nuestro proyecto, contamos con tres roles fundamentales:
 
 ### Data Scientist
 - **Maria Leiton**
 - **Joaquin Amarilla**
 
-Los Data Scientists son figuras clave en nuestro equipo y desempeñan un papel fundamental en la generación de conocimientos a partir de los datos.
+Los Data Scientists desempeñan un papel fundamental en nuestro equipo, siendo figuras esenciales en la generación de insights a partir de los datos.
 
 ### Data Analysts
 Los Data Analysts en nuestro equipo se dedican principalmente a tareas relacionadas con el análisis de datos. Dos de los miembros que desempeñan este rol son:
@@ -67,12 +66,11 @@ Los Data Analysts en nuestro equipo se dedican principalmente a tareas relaciona
 - **Oswaldo Garcia**
 - **Mariano Acosta**
 
-Estos profesionales son responsables de extraer, limpiar, analizar y presentar datos de una manera significativa para tomar decisiones informadas.
+Estos profesionales tienen la responsabilidad de extraer, depurar, analizar y presentar los datos de una manera que sea relevante y permita tomar decisiones informadas.
 
 ### Data Engineers
 Los Data Engineers en nuestro equipo se centran principalmente en tareas relacionadas con la ingeniería de datos. 
 - **Nicolas Aranda**
 
-Se encargaa de diseñar, implementar y mantener las infraestructuras de datos y pipelines que permiten la recopilación, procesamiento y almacenamiento eficiente de los datos.
-
+Los Data Engineers se dedican principalmente a labores vinculadas con la ingeniería de datos. Su función primordial es diseñar, implementar y mantener las infraestructuras de datos y los pipelines que facilitan la recolección, procesamiento y almacenamiento eficaz de la información.
 
