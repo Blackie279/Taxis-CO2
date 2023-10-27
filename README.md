@@ -1,5 +1,7 @@
 # Análisis de Taxis y Emisiones de CO2 en la Ciudad de Nueva York
 
+<img src="src/taxi.jpeg" alt="imagen de taxi">
+
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo proporcionar un análisis detallado sobre el mercado de taxis en la ciudad de Nueva York, centrándose en aspectos clave como la cuota de mercado entre taxis amarillos y verdes, el consumo de combustible, la rentabilidad por kilometraje de batería y las mediciones de ozono. El análisis está diseñado para brindar información valiosa a empresas interesadas en ingresar a este mercado.
 
@@ -48,6 +50,10 @@ GCP se destaca como una de las principales plataformas de servicios en la nube, 
 
 - **Machine Learning e Inteligencia Artificial:** GCP nos brinda herramientas predefinidas por Google para implementar soluciones de Machine Learning e Inteligencia Artificial.
 
+### Prefect.io 
+Es una herramienta que desempeña un papel fundamental en nuestro proyecto al gestionar y coordinar las tareas y flujos de trabajo de manera eficiente. Permite la automatización y programación de tareas de manera sencilla y flexible, lo que es esencial para garantizar la fluidez en la transformación y procesamiento de datos.
+
+<img src="src/diagrama.drawio.png" alt="pipeline">
 
 
 ## Roles
