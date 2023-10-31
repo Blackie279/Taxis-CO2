@@ -1,0 +1,104 @@
+Model_ID,Brand_ID,Model_Name
+0,73      ,Model 3 Long Range Dual Motor   
+1,75 ,ID.3 Pure                       
+2,54   ,2                               
+3,8        ,iX3                             
+4,25      ,e                               
+5,40      ,Air                             
+6,75 ,e-Golf                          
+7,53    ,e-208                           
+8,73      ,Model 3 Standard Range Plus     
+9,6       ,Q4 e-tron                       
+10,44   ,EQC 400 4MATIC                  
+11,51     ,Leaf                            
+12,27    ,Kona Electric 64 kWh            
+13,8        ,i4                              
+14,27    ,IONIQ Electric                  
+15,75 ,ID.3 Pro S                      
+16,56    ,Taycan Turbo S                  
+17,75 ,e-Up!                           
+18,47         ,ZS EV                           
+19,48       ,Cooper SE                       
+20,52       ,Corsa-e                         
+21,73      ,Model Y Long Range Dual Motor   
+22,66      ,Enyaq iV 50                     
+23,6       ,e-tron GT                       
+24,73      ,Model 3 Long Range Performance  
+25,75 ,ID.4                            
+26,75 ,ID.3 Pro                        
+27,76      ,XC40 P8 AWD Recharge            
+28,8        ,i3 120 Ah                       
+29,53    ,e-2008 SUV                      
+30,6       ,e-tron 50 quattro               
+31,32        ,e-Niro 64 kWh                   
+32,59    ,Zoe ZE50 R110                   
+33,73      ,Cybertruck Tri Motor            
+34,42      ,MX-30                           
+35,51     ,Leaf e+                         
+36,36      ,UX 300e                         
+37,16      ,el-Born                         
+38,59    ,Zoe ZE50 R135                   
+39,44   ,EQA                             
+40,73      ,Model S Long Range              
+41,27    ,Kona Electric 39 kWh            
+42,6       ,e-tron Sportback 55 quattro     
+43,66      ,CITIGOe iV                      
+44,65       ,Mii Electric                    
+45,32        ,e-Soul 64 kWh                   
+46,52       ,Ampera-e                        
+47,56    ,Taycan 4S                       
+48,37  ,One                             
+49,2     ,U5                              
+50,6       ,e-tron 55 quattro               
+51,73      ,Roadster                        
+52,52       ,Mokka-e                         
+53,66      ,Enyaq iV 80                     
+54,73      ,Model X Long Range              
+55,25      ,e Advance                       
+56,20         ,3 Crossback E-Tense             
+57,59    ,Twingo ZE                       
+58,15    ,e-C4                            
+59,73      ,Model S Performance             
+60,59    ,Zoe ZE40 R110                   
+61,73      ,Model Y Long Range Performance  
+62,51     ,Ariya 87kWh                     
+63,30     ,I-Pace                          
+64,22       ,Mustang Mach-E ER RWD           
+65,56    ,Taycan 4S Plus                  
+66,51     ,e-NV200 Evalia                  
+67,73      ,Cybertruck Dual Motor           
+68,59    ,Kangoo Maxi ZE 33               
+69,22       ,Mustang Mach-E ER AWD           
+70,8        ,i3s 120 Ah                      
+71,66      ,Enyaq iV 80X                    
+72,56    ,Taycan Cross Turismo            
+73,11      ,M-Byte 95 kWh 4WD               
+74,68       ,Sion                            
+75,32        ,e-Niro 39 kWh                   
+76,6       ,Q4 Sportback e-tron             
+77,67      ,EQ forfour                      
+78,22       ,Mustang Mach-E SR AWD           
+79,56    ,Taycan Turbo                    
+80,75 ,ID.3 1st                        
+81,73      ,Model X Performance             
+82,67      ,EQ fortwo coupe                 
+83,22       ,Mustang Mach-E SR RWD           
+84,44   ,EQV 300 Long                    
+85,21       ,500e Hatchback                  
+86,73      ,Cybertruck Single Motor         
+87,6       ,e-tron Sportback 50 quattro     
+88,66      ,Enyaq iV vRS                    
+89,66      ,Enyaq iV 60                     
+90,6       ,e-tron S 55 quattro             
+91,67      ,EQ fortwo cabrio                
+92,32        ,e-Soul 64 kWh                   
+93,51     ,Ariya e-4ORCE 87kWh             
+94,21       ,500e Convertible                
+95,75 ,ID.3 Pro Performance            
+96,32        ,e-Soul 39 kWh                   
+97,11      ,M-Byte 72 kWh 2WD               
+98,51     ,Ariya 63kWh                     
+99,6       ,e-tron S Sportback 55 quattro   
+100,51     ,Ariya e-4ORCE 63kWh             
+101,51     ,Ariya e-4ORCE 87kWh Performance 
+102,11      ,M-Byte 95 kWh 2WD               

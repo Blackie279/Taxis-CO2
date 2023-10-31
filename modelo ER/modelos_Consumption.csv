@@ -1,0 +1,824 @@
+Model_ID,Year,Brand_ID,Model_Name
+0,2023,1         ,Integra                                        
+1,2023,1         ,Integra A-SPEC                                 
+2,2023,1         ,Integra A-SPEC                                 
+3,2023,1         ,MDX SH-AWD                                     
+4,2023,1         ,MDX SH-AWD Type S                              
+5,2023,1         ,RDX SH-AWD                                     
+6,2023,1         ,RDX SH-AWD A-SPEC                              
+7,2023,1         ,TLX SH-AWD                                     
+8,2023,1         ,TLX SH-AWD A-SPEC                              
+9,2023,1         ,TLX Type S                                     
+10,2023,3    ,Giulia                                         
+11,2023,3    ,Giulia AWD                                     
+12,2023,3    ,Giulia Quadrifoglio                            
+13,2023,3    ,Stelvio                                        
+14,2023,3    ,Stelvio AWD                                    
+15,2023,3    ,Stelvio AWD Quadrifoglio                       
+16,2023,3    ,Tonale AWD                                     
+17,2023,5  ,DB11 V8                                        
+18,2023,5  ,DB11 V12                                       
+19,2023,5  ,DBS V12                                        
+20,2023,5  ,DBX V8                                         
+21,2023,5  ,DBX707                                         
+22,2023,5  ,Vantage V8                                     
+23,2023,5  ,V12 Vantage                                    
+24,2023,6          ,A3 40 TFSI quattro                             
+25,2023,6          ,A4 Sedan 45 TFSI quattro                       
+26,2023,6          ,A4 allroad 45 TFSI quattro                     
+27,2023,6          ,A5 Cabriolet 45 TFSI quattro                   
+28,2023,6          ,A5 Coup� 45 TFSI quattro                       
+29,2023,6          ,A5 Sportback 45 TFSI quattro                   
+30,2023,6          ,A6 45 TFSI quattro                             
+31,2023,6          ,A6 55 TFSI quattro                             
+32,2023,6          ,A6 allroad 55 TFSI quattro                     
+33,2023,6          ,A7 Sportback 55 TFSI quattro                   
+34,2023,6          ,A8 L Sedan 55 TFSI quattro                     
+35,2023,6          ,Q3 40 TFSI quattro                             
+36,2023,6          ,Q3 45 TFSI quattro                             
+37,2023,6          ,Q5 40 TFSI quattro                             
+38,2023,6          ,Q5 45 TFSI quattro                             
+39,2023,6          ,Q5 Sportback 45 TFSI quattro                   
+40,2023,6          ,Q7 45 TFSI quattro                             
+41,2023,6          ,Q7 55 TFSI quattro                             
+42,2023,6          ,Q8 55 TFSI quattro                             
+43,2023,6          ,R8 Coup� Performance                           
+44,2023,6          ,R8 Coup� Performance quattro                   
+45,2023,6          ,R8 Spyder Performance                          
+46,2023,6          ,R8 Spyder Performance quattro                  
+47,2023,6          ,R8 GT Coup�                                    
+48,2023,6          ,RS 5 Coup� quattro                             
+49,2023,6          ,RS 5 Sportback quattro                         
+50,2023,6          ,RS 6 Avant quattro                             
+51,2023,6          ,RS 7 Sportback quattro                         
+52,2023,6          ,RS Q8 quattro                                  
+53,2023,6          ,S3 quattro                                     
+54,2023,6          ,S4 Sedan quattro                               
+55,2023,6          ,S5 Cabriolet quattro                           
+56,2023,6          ,S5 Coup� quattro                               
+57,2023,6          ,S5 Sportback quattro                           
+58,2023,6          ,S6 quattro                                     
+59,2023,6          ,S7 quattro                                     
+60,2023,6          ,S8 Sedan quattro                               
+61,2023,6          ,SQ5 quattro                                    
+62,2023,6          ,SQ5 Sportback quattro                          
+63,2023,6          ,SQ7 quattro                                    
+64,2023,6          ,SQ8 quattro                                    
+65,2023,6          ,TT Coup� 45 TFSI quattro                       
+66,2023,6          ,TT Roadster 45 TFSI quattro                    
+67,2023,6          ,TTS Coup� quattro                              
+68,2023,7       ,Bentayga                                       
+69,2023,7       ,Bentayga EWB                                   
+70,2023,7       ,Bentayga Speed                                 
+71,2023,7       ,Continental GT                                 
+72,2023,7       ,Continental GT Speed                           
+73,2023,7       ,Continental GTC                                
+74,2023,7       ,Continental GTC Speed                          
+75,2023,7       ,Flying Spur                                    
+76,2023,7       ,Flying Spur Speed                              
+77,2023,8           ,230i xDrive Coupe                              
+78,2023,8           ,330i xDrive Sedan                              
+79,2023,8           ,430i xDrive Cabriolet                          
+80,2023,8           ,430i xDrive Coupe                              
+81,2023,8           ,530i xDrive Sedan                              
+82,2023,8           ,540i xDrive Sedan                              
+83,2023,8           ,760i xDrive Sedan                              
+84,2023,8           ,ALPINA B8 Gran Coupe                           
+85,2023,8           ,ALPINA XB7                                     
+86,2023,8           ,M2 Coupe                                       
+87,2023,8           ,M2 Coupe                                       
+88,2023,8           ,M240i xDrive Coupe                             
+89,2023,8           ,M3 Sedan                                       
+90,2023,8           ,M3 Competition M xDrive Sedan                  
+91,2023,8           ,M340i xDrive Sedan                             
+92,2023,8           ,M4 Competition M xDrive Cabriolet              
+93,2023,8           ,M4 Coupe                                       
+94,2023,8           ,M4 Competition M xDrive Coupe                  
+95,2023,8           ,M4 CSL Coupe                                   
+96,2023,8           ,M440i xDrive Cabriolet                         
+97,2023,8           ,M440i xDrive Coupe                             
+98,2023,8           ,M5 Sedan                                       
+99,2023,8           ,M5 Competition Sedan                           
+100,2023,8           ,M550i xDrive Sedan                             
+101,2023,8           ,M8 Competition Cabriolet                       
+102,2023,8           ,M8 Competition Coupe                           
+103,2023,8           ,M8 Competition Gran Coupe                      
+104,2023,8           ,M850i xDrive Cabriolet                         
+105,2023,8           ,M850i xDrive Coupe                             
+106,2023,8           ,M850i xDrive Gran Coupe                        
+107,2023,8           ,X1 xDrive28i                                   
+108,2023,8           ,X3 xDrive30i                                   
+109,2023,8           ,X3 M                                           
+110,2023,8           ,X3 M Competition                               
+111,2023,8           ,X3 M40i                                        
+112,2023,8           ,X4 xDrive30i                                   
+113,2023,8           ,X4 M                                           
+114,2023,8           ,X4 M Competition                               
+115,2023,8           ,X4 M40i                                        
+116,2023,8           ,X5 xDrive40i                                   
+117,2023,8           ,X5 M                                           
+118,2023,8           ,X5 M Competition                               
+119,2023,8           ,X5 M50i                                        
+120,2023,8           ,X6 xDrive40i                                   
+121,2023,8           ,X6 M                                           
+122,2023,8           ,X6 M Competition                               
+123,2023,8           ,X6 M50i                                        
+124,2023,8           ,X7 xDrive40i                                   
+125,2023,8           ,X7 M60i xDrive                                 
+126,2023,8           ,Z4 sDrive30i                                   
+127,2023,8           ,Z4 M40i                                        
+128,2023,9       ,Chiron                                         
+129,2023,9       ,Chiron Pur Sport                               
+130,2023,9       ,Chiron Super Sport                             
+131,2023,10         ,Enclave AWD                                    
+132,2023,10         ,Encore GX                                      
+133,2023,10         ,Encore GX                                      
+134,2023,10         ,Encore GX AWD                                  
+135,2023,10         ,Envision                                       
+136,2023,10         ,Envision AWD                                   
+137,2023,12      ,CT4                                            
+138,2023,12      ,CT4                                            
+139,2023,12      ,CT4 AWD                                        
+140,2023,12      ,CT4 AWD                                        
+141,2023,12      ,CT4-V                                          
+142,2023,12      ,CT4-V AWD                                      
+143,2023,12      ,CT4-V Blackwing                                
+144,2023,12      ,CT4-V Blackwing                                
+145,2023,12      ,CT5                                            
+146,2023,12      ,CT5                                            
+147,2023,12      ,CT5 AWD                                        
+148,2023,12      ,CT5 AWD                                        
+149,2023,12      ,CT5-V                                          
+150,2023,12      ,CT5-V AWD                                      
+151,2023,12      ,CT5-V Blackwing                                
+152,2023,12      ,CT5-V Blackwing                                
+153,2023,12      ,Escalade 4WD                                   
+154,2023,12      ,Escalade 4WD                                   
+155,2023,12      ,Escalade-V AWD                                 
+156,2023,12      ,XT4                                            
+157,2023,12      ,XT4 AWD                                        
+158,2023,12      ,XT5                                            
+159,2023,12      ,XT5 AWD                                        
+160,2023,12      ,XT5 AWD                                        
+161,2023,12      ,XT6 AWD                                        
+162,2023,12      ,XT6 AWD                                        
+163,2023,13     ,Blazer                                         
+164,2023,13     ,Blazer AWD                                     
+165,2023,13     ,Blazer AWD                                     
+166,2023,13     ,Camaro                                         
+167,2023,13     ,Camaro                                         
+168,2023,13     ,Camaro                                         
+169,2023,13     ,Camaro                                         
+170,2023,13     ,Camaro SS                                      
+171,2023,13     ,Camaro SS                                      
+172,2023,13     ,Camaro ZL1                                     
+173,2023,13     ,Camaro ZL1                                     
+174,2023,13     ,Colorado                                       
+175,2023,13     ,Colorado (Turbo Plus)                          
+176,2023,13     ,Colorado 4WD                                   
+177,2023,13     ,Colorado 4WD (Turbo Plus)                      
+178,2023,13     ,Colorado 4WD Mud Terrain Tire (Turbo Plus)     
+179,2023,13     ,Colorado ZR2 4WD                               
+180,2023,13     ,Corvette                                       
+181,2023,13     ,Corvette Z06                                   
+182,2023,13     ,Corvette Z06 Carbon Aero                       
+183,2023,13     ,Equinox                                        
+184,2023,13     ,Equinox AWD                                    
+185,2023,13     ,Malibu                                         
+186,2023,13     ,Silverado                                      
+187,2023,13     ,Silverado                                      
+188,2023,13     ,Silverado                                      
+189,2023,13     ,Silverado FFV                                  
+190,2023,13     ,Silverado FFV                                  
+191,2023,13     ,Silverado 4WD                                  
+192,2023,13     ,Silverado 4WD Mud Terrain Tire                 
+193,2023,13     ,Silverado 4WD                                  
+194,2023,13     ,Silverado 4WD Mud Terrain Tire                 
+195,2023,13     ,Silverado 4WD                                  
+196,2023,13     ,Silverado 4WD FFV                              
+197,2023,13     ,Silverado 4WD FFV                              
+198,2023,13     ,Silverado 4WD Mud Terrain Tire                 
+199,2023,13     ,Silverado 4WD Mud Terrain Tire FFV             
+200,2023,13     ,Silverado 4WD Mud Terrain Tire FFV             
+201,2023,13     ,Silverado 4WD                                  
+202,2023,13     ,Silverado 4WD Mud Terrain Tire                 
+203,2023,13     ,Silverado 4WD ZR2                              
+204,2023,13     ,Suburban                                       
+205,2023,13     ,Suburban                                       
+206,2023,13     ,Suburban 4WD                                   
+207,2023,13     ,Suburban 4WD                                   
+208,2023,13     ,Suburban 4WD                                   
+209,2023,13     ,Tahoe                                          
+210,2023,13     ,Tahoe                                          
+211,2023,13     ,Tahoe 4WD                                      
+212,2023,13     ,Tahoe 4WD                                      
+213,2023,13     ,Tahoe 4WD                                      
+214,2023,13     ,Trailblazer                                    
+215,2023,13     ,Trailblazer                                    
+216,2023,13     ,Trailblazer AWD                                
+217,2023,13     ,Traverse AWD                                   
+218,2023,14      ,300                                            
+219,2023,14      ,300                                            
+220,2023,14      ,300 AWD                                        
+221,2023,14      ,300C                                           
+222,2023,14      ,Grand Caravan                                  
+223,2023,14      ,Pacifica                                       
+224,2023,14      ,Pacifica AWD                                   
+225,2023,19         ,Challenger                                     
+226,2023,19         ,Challenger (MDS)                               
+227,2023,19         ,Challenger                                     
+228,2023,19         ,Challenger (MDS)                               
+229,2023,19         ,Challenger                                     
+230,2023,19         ,Challenger AWD                                 
+231,2023,19         ,Challenger Widebody (MDS)                      
+232,2023,19         ,Challenger Widebody                            
+233,2023,19         ,Challenger SRT Hellcat                         
+234,2023,19         ,Challenger SRT Hellcat                         
+235,2023,19         ,Challenger SRT Hellcat Widebody                
+236,2023,19         ,Challenger SRT Hellcat Widebody                
+237,2023,19         ,Charger                                        
+238,2023,19         ,Charger (MDS)                                  
+239,2023,19         ,Charger (MDS)                                  
+240,2023,19         ,Charger AWD                                    
+241,2023,19         ,Charger Widebody (MDS)                         
+242,2023,19         ,Charger SRT Hellcat Widebody                   
+243,2023,19         ,Durango AWD                                    
+244,2023,19         ,Durango AWD                                    
+245,2023,19         ,Durango AWD SRT                                
+246,2023,19         ,Durango AWD SRT Hellcat                        
+247,2023,19         ,Hornet AWD                                     
+248,2023,21          ,500X AWD                                       
+249,2023,22          ,Bronco 4WD                                     
+250,2023,22          ,Bronco 4WD                                     
+251,2023,22          ,Bronco 4WD                                     
+252,2023,22          ,Bronco Badlands 4WD                            
+253,2023,22          ,Bronco Badlands 4WD                            
+254,2023,22          ,Bronco Badlands 4WD                            
+255,2023,22          ,Bronco Black Diamond 4WD                       
+256,2023,22          ,Bronco Black Diamond 4WD                       
+257,2023,22          ,Bronco Black Diamond 4WD                       
+258,2023,22          ,Bronco Raptor 4WD                              
+259,2023,22          ,Bronco Sasquatch 4WD                           
+260,2023,22          ,Bronco Sasquatch 4WD                           
+261,2023,22          ,Bronco Sasquatch 4WD                           
+262,2023,22          ,Bronco Sport 4WD                               
+263,2023,22          ,Bronco Sport 4WD                               
+264,2023,22          ,Edge AWD                                       
+265,2023,22          ,Edge AWD                                       
+266,2023,22          ,Edge AWD                                       
+267,2023,22          ,Escape                                         
+268,2023,22          ,Escape AWD                                     
+269,2023,22          ,Escape AWD                                     
+270,2023,22          ,Escape Hybrid                                  
+271,2023,22          ,Escape Hybrid AWD                              
+272,2023,22          ,Expedition 4X4                                 
+273,2023,22          ,Expedition 4X4 (Without Stop-Start)            
+274,2023,22          ,Expedition Timberline 4X4                      
+275,2023,22          ,Expedition Timberline 4X4 (Without Stop-Start) 
+276,2023,22          ,Explorer AWD                                   
+277,2023,22          ,Explorer AWD (Without Stop-Start)              
+278,2023,22          ,Explorer AWD                                   
+279,2023,22          ,Explorer AWD (Without Stop-Start)              
+280,2023,22          ,Explorer AWD                                   
+281,2023,22          ,Explorer AWD (Without Stop-Start)              
+282,2023,22          ,Explorer Timberline AWD                        
+283,2023,22          ,Explorer Timberline AWD (Without Stop-Start)   
+284,2023,22          ,Explorer Hybrid AWD                            
+285,2023,22          ,F-150                                          
+286,2023,22          ,F-150 (Without Stop-Start)                     
+287,2023,22          ,F-150 FFV                                      
+288,2023,22          ,F-150 FFV                                      
+289,2023,22          ,F-150 FFV (Without Stop-Start)                 
+290,2023,22          ,F-150 FFV (Without Stop-Start)                 
+291,2023,22          ,F-150                                          
+292,2023,22          ,F-150 FFV                                      
+293,2023,22          ,F-150 FFV                                      
+294,2023,22          ,F-150 FFV (Without Stop-Start)                 
+295,2023,22          ,F-150 FFV (Without Stop-Start)                 
+296,2023,22          ,F-150 4X4                                      
+297,2023,22          ,F-150 4X4 (Without Stop-Start)                 
+298,2023,22          ,F-150 4X4 FFV                                  
+299,2023,22          ,F-150 4X4 FFV                                  
+300,2023,22          ,F-150 4X4                                      
+301,2023,22          ,F-150 4X4 (Without Stop-Start)                 
+302,2023,22          ,F-150 4X4 FFV                                  
+303,2023,22          ,F-150 4X4 FFV                                  
+304,2023,22          ,F-150 4X4 FFV (Without Stop-Start)             
+305,2023,22          ,F-150 4X4 FFV (Without Stop-Start)             
+306,2023,22          ,F-150 Raptor 4X4                               
+307,2023,22          ,F-150 Raptor 4X4 (Without Stop-Start)          
+308,2023,22          ,F-150 Raptor 37 4X4                            
+309,2023,22          ,F-150 Raptor 37 4X4 (Without Stop-Start)       
+310,2023,22          ,F-150 Raptor R 4X4                             
+311,2023,22          ,F-150 Tremor 4X4                               
+312,2023,22          ,F-150 Tremor 4X4 (Without Stop-Start)          
+313,2023,22          ,F-150 Tremor 4X4 FFV                           
+314,2023,22          ,F-150 Tremor 4X4 FFV                           
+315,2023,22          ,F-150 Tremor 4X4 FFV (Without Stop-Start)      
+316,2023,22          ,F-150 Tremor 4X4 FFV (Without Stop-Start)      
+317,2023,22          ,F-150 Hybrid                                   
+318,2023,22          ,F-150 Hybrid 4X4                               
+319,2023,22          ,Maverick AWD                                   
+320,2023,22          ,Maverick Tremor AWD                            
+321,2023,22          ,Maverick Hybrid                                
+322,2023,22          ,Mustang                                        
+323,2023,22          ,Mustang                                        
+324,2023,22          ,Mustang (High Performance)                     
+325,2023,22          ,Mustang                                        
+326,2023,22          ,Mustang (High Performance)                     
+327,2023,22          ,Mustang                                        
+328,2023,22          ,Mustang                                        
+329,2023,22          ,Mustang Convertible                            
+330,2023,22          ,Mustang Convertible                            
+331,2023,22          ,Mustang Convertible (High Performance)         
+332,2023,22          ,Mustang Convertible                            
+333,2023,22          ,Mustang Convertible (High Performance)         
+334,2023,22          ,Mustang Convertible                            
+335,2023,22          ,Mustang Mach 1                                 
+336,2023,22          ,Mustang Mach 1                                 
+337,2023,22          ,Ranger 4WD                                     
+338,2023,22          ,Ranger 4WD (Without Stop-Start)                
+339,2023,22          ,Ranger Tremor 4WD                              
+340,2023,22          ,Transit Connect Van                            
+341,2023,22          ,Transit Connect Wagon LWB                      
+342,2023,23       ,G70 AWD                                        
+343,2023,23       ,G70 AWD                                        
+344,2023,23       ,G80 AWD                                        
+345,2023,23       ,G80 AWD                                        
+346,2023,23       ,G90                                            
+347,2023,23       ,GV70 AWD                                       
+348,2023,23       ,GV70 AWD                                       
+349,2023,23       ,GV80 AWD                                       
+350,2023,23       ,GV80 AWD                                       
+351,2023,24           ,Acadia AWD                                     
+352,2023,24           ,Acadia AWD                                     
+353,2023,24           ,Canyon                                         
+354,2023,24           ,Canyon 4WD                                     
+355,2023,24           ,Canyon 4WD Mud Terrain Tire                    
+356,2023,24           ,Canyon AT4X 4WD                                
+357,2023,24           ,Sierra                                         
+358,2023,24           ,Sierra                                         
+359,2023,24           ,Sierra                                         
+360,2023,24           ,Sierra FFV                                     
+361,2023,24           ,Sierra FFV                                     
+362,2023,24           ,Sierra 4WD                                     
+363,2023,24           ,Sierra 4WD Mud Terrain Tire                    
+364,2023,24           ,Sierra 4WD                                     
+365,2023,24           ,Sierra 4WD Mud Terrain Tire                    
+366,2023,24           ,Sierra 4WD                                     
+367,2023,24           ,Sierra 4WD FFV                                 
+368,2023,24           ,Sierra 4WD FFV                                 
+369,2023,24           ,Sierra 4WD Mud Terrain Tire                    
+370,2023,24           ,Sierra 4WD Mud Terrain Tire FFV                
+371,2023,24           ,Sierra 4WD Mud Terrain Tire FFV                
+372,2023,24           ,Sierra 4WD                                     
+373,2023,24           ,Sierra 4WD Mud Terrain Tire                    
+374,2023,24           ,Sierra 4WD AT4X                                
+375,2023,24           ,Terrain                                        
+376,2023,24           ,Terrain AWD                                    
+377,2023,24           ,Yukon                                          
+378,2023,24           ,Yukon                                          
+379,2023,24           ,Yukon 4WD                                      
+380,2023,24           ,Yukon 4WD                                      
+381,2023,24           ,Yukon 4WD                                      
+382,2023,24           ,Yukon XL                                       
+383,2023,24           ,Yukon XL                                       
+384,2023,24           ,Yukon XL 4WD                                   
+385,2023,24           ,Yukon XL 4WD                                   
+386,2023,24           ,Yukon XL 4WD                                   
+387,2023,25         ,Accord                                         
+388,2023,25         ,Accord Hybrid Sport/Touring                    
+389,2023,25         ,Civic Hatchback                                
+390,2023,25         ,Civic Hatchback                                
+391,2023,25         ,Civic Hatchback                                
+392,2023,25         ,Civic Hatchback                                
+393,2023,25         ,Civic Sedan                                    
+394,2023,25         ,Civic Sedan                                    
+395,2023,25         ,Civic Sedan                                    
+396,2023,25         ,Civic Sedan Si                                 
+397,2023,25         ,Civic Type R                                   
+398,2023,25         ,CR-V                                           
+399,2023,25         ,CR-V AWD                                       
+400,2023,25         ,CR-V Hybrid AWD                                
+401,2023,25         ,HR-V                                           
+402,2023,25         ,HR-V AWD                                       
+403,2023,25         ,Odyssey                                        
+404,2023,25         ,Passport AWD                                   
+405,2023,25         ,Pilot AWD                                      
+406,2023,25         ,Pilot AWD Touring/Elite/Black                  
+407,2023,25         ,Pilot AWD TrailSport                           
+408,2023,25         ,Ridgeline AWD                                  
+409,2023,27       ,Elantra                                        
+410,2023,27       ,Elantra                                        
+411,2023,27       ,Elantra (ISG)                                  
+412,2023,27       ,Elantra N                                      
+413,2023,27       ,Elantra N                                      
+414,2023,27       ,Elantra Hybrid                                 
+415,2023,27       ,Kona                                           
+416,2023,27       ,Kona N                                         
+417,2023,27       ,Kona AWD                                       
+418,2023,27       ,Kona AWD                                       
+419,2023,27       ,Palisade AWD                                   
+420,2023,27       ,Santa Cruz AWD                                 
+421,2023,27       ,Santa Fe AWD                                   
+422,2023,27       ,Santa Fe AWD                                   
+423,2023,27       ,Santa Fe Hybrid                                
+424,2023,27       ,Sonata                                         
+425,2023,27       ,Sonata                                         
+426,2023,27       ,Sonata                                         
+427,2023,27       ,Sonata Hybrid                                  
+428,2023,27       ,Tucson                                         
+429,2023,27       ,Tucson AWD                                     
+430,2023,27       ,Tucson Hybrid                                  
+431,2023,27       ,Venue                                          
+432,2023,28      ,Q50 AWD                                        
+433,2023,28      ,Q50 AWD Red Sport                              
+434,2023,28      ,QX50 AWD                                       
+435,2023,28      ,QX55 AWD                                       
+436,2023,28      ,QX60 AWD                                       
+437,2023,28      ,QX80 4WD                                       
+438,2023,30        ,E-PACE P250                                    
+439,2023,30        ,F-PACE P250                                    
+440,2023,30        ,F-PACE P400                                    
+441,2023,30        ,F-PACE P550 SVR                                
+442,2023,30        ,F-TYPE P450 Convertible                        
+443,2023,30        ,F-TYPE P450 Convertible AWD                    
+444,2023,30        ,F-TYPE P450 Coupe                              
+445,2023,30        ,F-TYPE P450 Coupe AWD                          
+446,2023,30        ,F-TYPE R Convertible AWD                       
+447,2023,30        ,F-TYPE R Coupe AWD                             
+448,2023,30        ,XF P250                                        
+449,2023,30        ,XF P300 AWD                                    
+450,2023,31          ,Cherokee 4X4 Active Drive I                    
+451,2023,31          ,Cherokee 4X4 Trailhawk Active Drive Lock       
+452,2023,31          ,Compass 4X4                                    
+453,2023,31          ,Gladiator 4X4 EcoDiesel                        
+454,2023,31          ,Gladiator 4X4 Rubicon EcoDiesel                
+455,2023,31          ,Gladiator 4X4                                  
+456,2023,31          ,Gladiator 4X4                                  
+457,2023,31          ,Grand Cherokee 4X4                             
+458,2023,31          ,Grand Cherokee 4X4                             
+459,2023,31          ,Grand Cherokee L 4X4                           
+460,2023,31          ,Grand Cherokee L 4X4                           
+461,2023,31          ,Grand Wagoneer 4X4 (High Output)               
+462,2023,31          ,Grand Wagoneer 4X4                             
+463,2023,31          ,Grand Wagoneer L 4X4 (High Output)             
+464,2023,31          ,Renegade 4X4                                   
+465,2023,31          ,Renegade 4X4 Trailhawk                         
+466,2023,31          ,Wagoneer 4X4                                   
+467,2023,31          ,Wagoneer 4X4                                   
+468,2023,31          ,Wagoneer L 4X4                                 
+469,2023,31          ,Wrangler JL 4X4                                
+470,2023,31          ,Wrangler JL 4X4                                
+471,2023,31          ,Wrangler JL 4X4 eTorque                        
+472,2023,31          ,Wrangler JL 4X4                                
+473,2023,31          ,Wrangler JL Unlimited 4X4                      
+474,2023,31          ,Wrangler JL Unlimited 4X4 EcoDiesel            
+475,2023,31          ,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel    
+476,2023,31          ,Wrangler JL Unlimited 4X4                      
+477,2023,31          ,Wrangler JL Unlimited 4X4 eTorque              
+478,2023,31          ,Wrangler JL Unlimited 4X4                      
+479,2023,31          ,Wrangler JL Unlimited 4X4 392                  
+480,2023,32           ,Carnival                                       
+481,2023,32           ,Forte                                          
+482,2023,32           ,Forte                                          
+483,2023,32           ,Forte 5                                        
+484,2023,32           ,Forte 5                                        
+485,2023,32           ,K5                                             
+486,2023,32           ,K5 AWD                                         
+487,2023,32           ,Niro                                           
+488,2023,32           ,Niro FE                                        
+489,2023,32           ,Rio                                            
+490,2023,32           ,Rio                                            
+491,2023,32           ,Seltos                                         
+492,2023,32           ,Seltos AWD                                     
+493,2023,32           ,Seltos AWD                                     
+494,2023,32           ,Sorento AWD                                    
+495,2023,32           ,Sorento AWD                                    
+496,2023,32           ,Sorento Hybrid AWD                             
+497,2023,32           ,Soul                                           
+498,2023,32           ,Sportage                                       
+499,2023,32           ,Sportage AWD                                   
+500,2023,32           ,Sportage Hybrid AWD                            
+501,2023,32           ,Stinger AWD                                    
+502,2023,32           ,Telluride AWD                                  
+503,2023,33   ,Hurac�n EVO Coupe                              
+504,2023,33   ,Hurac�n EVO Coupe AWD                          
+505,2023,33   ,Hurac�n EVO Spyder                             
+506,2023,33   ,Hurac�n EVO Spyder AWD                         
+507,2023,33   ,Urus Performante                               
+508,2023,33   ,Urus S                                         
+509,2023,35    ,Defender 90 P300                               
+510,2023,35    ,Defender 90 P400                               
+511,2023,35    ,Defender 90 5.0L V8                            
+512,2023,35    ,Defender 110 P300                              
+513,2023,35    ,Defender 110 P400                              
+514,2023,35    ,Defender 110 5.0L V8                           
+515,2023,35    ,Discovery P300                                 
+516,2023,35    ,Discovery P360                                 
+517,2023,35    ,Discovery Sport P250                           
+518,2023,35    ,Range Rover P400                               
+519,2023,35    ,Range Rover P400 LWB                           
+520,2023,35    ,Range Rover P530                               
+521,2023,35    ,Range Rover P530 LWB                           
+522,2023,35    ,Range Rover Sport P360                         
+523,2023,35    ,Range Rover Sport HST P400                     
+524,2023,35    ,Range Rover Sport P530                         
+525,2023,35    ,Range Rover Evoque P250                        
+526,2023,35    ,Range Rover Evoque P300                        
+527,2023,35    ,Range Rover Velar P250                         
+528,2023,35    ,Range Rover Velar P340                         
+529,2023,35    ,Range Rover Velar P400                         
+530,2023,36         ,ES 250 AWD                                     
+531,2023,36         ,ES 300h                                        
+532,2023,36         ,ES 350                                         
+533,2023,36         ,ES 350 F SPORT                                 
+534,2023,36         ,GX 460                                         
+535,2023,36         ,IS 300                                         
+536,2023,36         ,IS 300 AWD                                     
+537,2023,36         ,IS 350 AWD                                     
+538,2023,36         ,IS 500                                         
+539,2023,36         ,LC 500                                         
+540,2023,36         ,LC 500 Convertible                             
+541,2023,36         ,LC 500h                                        
+542,2023,36         ,LS 500 AWD                                     
+543,2023,36         ,LS 500h AWD                                    
+544,2023,36         ,LX 600                                         
+545,2023,36         ,NX 250 AWD                                     
+546,2023,36         ,NX 350 AWD                                     
+547,2023,36         ,NX 350 AWD F SPORT                             
+548,2023,36         ,NX 350h AWD                                    
+549,2023,36         ,RC 300 AWD                                     
+550,2023,36         ,RC 350 AWD                                     
+551,2023,36         ,RC F                                           
+552,2023,36         ,RX 350 AWD                                     
+553,2023,36         ,RX 350h AWD                                    
+554,2023,36         ,RX 500h AWD                                    
+555,2023,36         ,UX 250h AWD                                    
+556,2023,38       ,Aviator AWD                                    
+557,2023,38       ,Aviator AWD (Without Stop-Start)               
+558,2023,38       ,Corsair AWD                                    
+559,2023,38       ,Nautilus AWD                                   
+560,2023,38       ,Nautilus AWD                                   
+561,2023,38       ,Nautilus AWD                                   
+562,2023,38       ,Navigator 4X4                                  
+563,2023,38       ,Navigator 4X4 (Without Stop-Start)             
+564,2023,41      ,Ghibli GT                                      
+565,2023,41      ,Ghibli Modena                                  
+566,2023,41      ,Ghibli Modena AWD                              
+567,2023,41      ,Ghibli Trofeo                                  
+568,2023,41      ,Grecale GT                                     
+569,2023,41      ,Grecale Modena                                 
+570,2023,41      ,Grecale Trofeo                                 
+571,2023,41      ,Levante GT                                     
+572,2023,41      ,Levante Modena                                 
+573,2023,41      ,Levante Modena V8                              
+574,2023,41      ,Levante Trofeo                                 
+575,2023,41      ,MC20                                           
+576,2023,41      ,MC20 Spyder                                    
+577,2023,41      ,Quattroporte GT                                
+578,2023,41      ,Quattroporte Modena                            
+579,2023,41      ,Quattroporte Modena AWD                        
+580,2023,41      ,Quattroporte Trofeo                            
+581,2023,42         ,CX-30 4WD                                      
+582,2023,42         ,CX-30 4WD                                      
+583,2023,42         ,CX-30 Turbo 4WD                                
+584,2023,42         ,CX-5 4WD                                       
+585,2023,42         ,CX-5 Turbo 4WD                                 
+586,2023,42         ,CX-50 4WD                                      
+587,2023,42         ,CX-50 Turbo 4WD                                
+588,2023,42         ,CX-9 4WD                                       
+589,2023,42         ,Mazda3 4-Door                                  
+590,2023,42         ,Mazda3 4-Door (SIL)                            
+591,2023,42         ,Mazda3 4-Door                                  
+592,2023,42         ,Mazda3 4-Door 4WD                              
+593,2023,42         ,Mazda3 4-Door Turbo 4WD                        
+594,2023,42         ,Mazda3 5-Door                                  
+595,2023,42         ,Mazda3 5-Door (SIL)                            
+596,2023,42         ,Mazda3 5-Door                                  
+597,2023,42         ,Mazda3 5-Door (SIL)                            
+598,2023,42         ,Mazda3 5-Door 4WD                              
+599,2023,42         ,Mazda3 5-Door Turbo 4WD                        
+600,2023,42         ,MX-5                                           
+601,2023,42         ,MX-5 (SIL)                                     
+602,2023,44-Benz ,AMG C 43 4MATIC Cabriolet                      
+603,2023,44-Benz ,AMG C 43 4MATIC Coupe                          
+604,2023,44-Benz ,AMG CLA 35 4MATIC Coupe                        
+605,2023,44-Benz ,AMG CLA 45 4MATIC Coupe                        
+606,2023,44-Benz ,AMG CLS 53 4MATIC+ Coupe                       
+607,2023,44-Benz ,AMG E 53 4MATIC+ Sedan                         
+608,2023,44-Benz ,AMG E 53 4MATIC+ Cabriolet                     
+609,2023,44-Benz ,AMG E 53 4MATIC+ Coupe                         
+610,2023,44-Benz ,AMG GLA 35 4MATIC SUV                          
+611,2023,44-Benz ,AMG GLA 45 4MATIC SUV                          
+612,2023,44-Benz ,AMG GLB 35 4MATIC SUV                          
+613,2023,44-Benz ,AMG GLC 43 4MATIC Coupe                        
+614,2023,44-Benz ,AMG GLE 53 4MATIC+ SUV                         
+615,2023,44-Benz ,AMG GLE 53 4MATIC+ Coupe                       
+616,2023,44-Benz ,AMG GLE 63 S 4MATIC+ SUV                       
+617,2023,44-Benz ,AMG GLE 63 S 4MATIC+ Coupe                     
+618,2023,44-Benz ,AMG GLS 63 4MATIC+ SUV                         
+619,2023,44-Benz ,AMG GT 53 4MATIC+ Coupe                        
+620,2023,44-Benz ,C 300 4MATIC Cabriolet                         
+621,2023,44-Benz ,C 300 4MATIC Coupe                             
+622,2023,44-Benz ,C 300 4MATIC Sedan                             
+623,2023,44-Benz ,CLA 250 4MATIC Coupe                           
+624,2023,44-Benz ,CLS 450 4MATIC Coupe                           
+625,2023,44-Benz ,E 350 4MATIC Sedan                             
+626,2023,44-Benz ,E 450 4MATIC Cabriolet                         
+627,2023,44-Benz ,E 450 4MATIC Coupe                             
+628,2023,44-Benz ,E 450 4MATIC Sedan                             
+629,2023,44-Benz ,E 450 4MATIC All-Terrain Wagon                 
+630,2023,44-Benz ,G 550 SUV                                      
+631,2023,44-Benz ,GLA 250 4MATIC SUV                             
+632,2023,44-Benz ,GLB 250 4MATIC SUV                             
+633,2023,44-Benz ,GLC 300 4MATIC Coupe                           
+634,2023,44-Benz ,GLE 350 4MATIC SUV                             
+635,2023,44-Benz ,GLE 450 4MATIC SUV                             
+636,2023,44-Benz ,GLE 450 4MATIC Coupe                           
+637,2023,44-Benz ,GLS 450 4MATIC SUV                             
+638,2023,44-Benz ,GLS 580 4MATIC SUV                             
+639,2023,44-Benz ,GLS 600 4MATIC Maybach SUV                     
+640,2023,44-Benz ,Maybach S 580 4MATIC Sedan                     
+641,2023,44-Benz ,Metris Cargo Van                               
+642,2023,44-Benz ,Metris Cargo Van LWB                           
+643,2023,44-Benz ,Metris Passenger Van                           
+644,2023,44-Benz ,S 500 4MATIC Sedan                             
+645,2023,44-Benz ,S 580 4MATIC Sedan                             
+646,2023,48          ,Cooper 3 Door                                  
+647,2023,48          ,Cooper 3 Door                                  
+648,2023,48          ,Cooper 5 Door                                  
+649,2023,48          ,Cooper 5 Door                                  
+650,2023,48          ,Cooper Clubman ALL4                            
+651,2023,48          ,Cooper Convertible                             
+652,2023,48          ,Cooper Convertible                             
+653,2023,48          ,Cooper Countryman                              
+654,2023,48          ,Cooper Countryman ALL4                         
+655,2023,48          ,Cooper S 3 Door                                
+656,2023,48          ,Cooper S 3 Door                                
+657,2023,48          ,Cooper S 5 Door                                
+658,2023,48          ,Cooper S 5 Door                                
+659,2023,48          ,Cooper S Clubman                               
+660,2023,48          ,Cooper S Clubman                               
+661,2023,48          ,Cooper S Clubman ALL4                          
+662,2023,48          ,Cooper S Convertible                           
+663,2023,48          ,Cooper S Convertible                           
+664,2023,48          ,Cooper S Countryman                            
+665,2023,48          ,Cooper S Countryman ALL4                       
+666,2023,48          ,John Cooper Works 3 Door                       
+667,2023,48          ,John Cooper Works 3 Door                       
+668,2023,48          ,John Cooper Works Clubman ALL4                 
+669,2023,48          ,John Cooper Works Convertible                  
+670,2023,48          ,John Cooper Works Countryman ALL4              
+671,2023,50    ,Eclipse Cross 4WD                              
+672,2023,50    ,Mirage                                         
+673,2023,50    ,Mirage                                         
+674,2023,50    ,Outlander 4WD                                  
+675,2023,50    ,RVR                                            
+676,2023,50    ,RVR 4WD                                        
+677,2023,50    ,RVR 4WD                                        
+678,2023,51        ,Altima AWD                                     
+679,2023,51        ,Altima AWD SR/Platinum                         
+680,2023,51        ,Armada 4WD                                     
+681,2023,51        ,Frontier                                       
+682,2023,51        ,Frontier 4WD                                   
+683,2023,51        ,Frontier 4WD Pro-4X                            
+684,2023,51        ,GT-R                                           
+685,2023,51        ,Kicks                                          
+686,2023,51        ,Maxima                                         
+687,2023,51        ,Murano AWD                                     
+688,2023,51        ,Pathfinder 4WD                                 
+689,2023,51        ,Pathfinder 4WD Rock Creek                      
+690,2023,51        ,Qashqai                                        
+691,2023,51        ,Qashqai AWD                                    
+692,2023,51        ,Rogue                                          
+693,2023,51        ,Rogue                                          
+694,2023,51        ,Rogue AWD                                      
+695,2023,51        ,Rogue AWD SL/Platinum                          
+696,2023,51        ,Rogue AWD                                      
+697,2023,51        ,Sentra                                         
+698,2023,51        ,Sentra SR                                      
+699,2023,51        ,Sentra                                         
+700,2023,51        ,Sentra SR                                      
+701,2023,51        ,Versa                                          
+702,2023,51        ,Versa                                          
+703,2023,51        ,Z                                              
+704,2023,51        ,Z                                              
+705,2023,56       ,911 Carrera                                    
+706,2023,56       ,911 Carrera Cabriolet                          
+707,2023,56       ,911 Carrera S                                  
+708,2023,56       ,911 Carrera S                                  
+709,2023,56       ,911 Carrera S Cabriolet                        
+710,2023,56       ,911 Carrera S Cabriolet                        
+711,2023,57           ,1500 eTorque                                   
+712,2023,57           ,1500 eTorque                                   
+713,2023,57           ,1500 4X4 EcoDiesel                             
+714,2023,57           ,1500 4X4 eTorque                               
+715,2023,57           ,1500 4X4                                       
+716,2023,57           ,1500 4X4 eTorque                               
+717,2023,57           ,1500 4X4 TRX                                   
+718,2023,57           ,1500 Classic                                   
+719,2023,57           ,1500 Classic                                   
+720,2023,57           ,1500 Classic 4X4                               
+721,2023,57           ,1500 Classic 4X4                               
+722,2023,61   ,Cullinan                                       
+723,2023,61   ,Cullinan Black Badge                           
+724,2023,61   ,Ghost                                          
+725,2023,61   ,Ghost Black Badge                              
+726,2023,61   ,Ghost Extended                                 
+727,2023,61   ,Phantom                                        
+728,2023,61   ,Phantom Extended                               
+729,2023,71        ,Ascent AWD                                     
+730,2023,71        ,BRZ                                            
+731,2023,71        ,BRZ                                            
+732,2023,71        ,Crosstrek AWD                                  
+733,2023,71        ,Crosstrek AWD                                  
+734,2023,71        ,Crosstrek AWD                                  
+735,2023,71        ,Forester AWD                                   
+736,2023,71        ,Forester Wilderness AWD                        
+737,2023,71        ,Impreza 5-Door AWD                             
+738,2023,71        ,Impreza 5-Door AWD                             
+739,2023,71        ,Legacy AWD                                     
+740,2023,71        ,Legacy AWD                                     
+741,2023,71        ,Outback AWD                                    
+742,2023,71        ,Outback AWD                                    
+743,2023,71        ,Outback Wilderness AWD                         
+744,2023,71        ,WRX AWD                                        
+745,2023,71        ,WRX AWD                                        
+746,2023,74        ,4Runner 4WD                                    
+747,2023,74        ,4Runner 4WD (Part-Time 4WD)                    
+748,2023,74        ,Camry SE                                       
+749,2023,74        ,Camry XSE V6/TRD                               
+750,2023,74        ,Camry AWD SE                                   
+751,2023,74        ,Camry AWD XSE                                  
+752,2023,74        ,Camry Hybrid LE                                
+753,2023,74        ,Camry Hybrid SE/XLE/XSE                        
+754,2023,74        ,Corolla (1-mode)                               
+755,2023,74        ,Corolla (3-mode)                               
+756,2023,74        ,Corolla Hatchback                              
+757,2023,74        ,Corolla Hybrid                                 
+758,2023,74        ,Corolla Hybrid AWD (2-mode)                    
+759,2023,74        ,Corolla Hybrid AWD (3-mode)                    
+760,2023,74        ,Corolla Cross                                  
+761,2023,74        ,Corolla Cross AWD                              
+762,2023,74        ,Corolla Cross Hybrid AWD                       
+763,2023,74        ,Crown AWD                                      
+764,2023,74        ,Crown AWD                                      
+765,2023,74        ,GR Corolla                                     
+766,2023,74        ,GR Supra 2.0                                   
+767,2023,74        ,GR Supra 3.0                                   
+768,2023,74        ,GR Supra 3.0                                   
+769,2023,74        ,GR86                                           
+770,2023,74        ,GR86                                           
+771,2023,74        ,Highlander AWD                                 
+772,2023,74        ,Highlander Hybrid AWD                          
+773,2023,74        ,Highlander Hybrid AWD Limited/Platinum         
+774,2023,74        ,Prius AWD                                      
+775,2023,74        ,RAV4                                           
+776,2023,74        ,RAV4 AWD                                       
+777,2023,74        ,RAV4 AWD (Stop/Start)                          
+778,2023,74        ,RAV4 AWD LE                                    
+779,2023,74        ,RAV4 Hybrid AWD                                
+780,2023,74        ,Sequoia 4WD                                    
+781,2023,74        ,Sienna                                         
+782,2023,74        ,Sienna AWD                                     
+783,2023,74        ,Tacoma 4WD                                     
+784,2023,74        ,Tacoma 4WD                                     
+785,2023,74        ,Tacoma 4WD D-Cab TRD Off-Road/PRO              
+786,2023,74        ,Tundra                                         
+787,2023,74        ,Tundra 4WD                                     
+788,2023,74        ,Tundra 4WD TRD                                 
+789,2023,74        ,Tundra Hybrid 4WD                              
+790,2023,74        ,Tundra Hybrid 4WD TRD PRO                      
+791,2023,74        ,Venza AWD                                      
+792,2023,75    ,Atlas                                          
+793,2023,75    ,Atlas 4MOTION                                  
+794,2023,75    ,Atlas 4MOTION                                  
+795,2023,75    ,Atlas Cross Sport                              
+796,2023,75    ,Atlas Cross Sport 4MOTION                      
+797,2023,75    ,Atlas Cross Sport 4MOTION                      
+798,2023,75    ,Golf GTI                                       
+799,2023,75    ,Golf GTI                                       
+800,2023,75    ,Golf R                                         
+801,2023,75    ,Golf R                                         
+802,2023,75    ,Jetta                                          
+803,2023,75    ,Jetta Comfortline/Highline                     
+804,2023,75    ,Jetta                                          
+805,2023,75    ,Jetta GLI                                      
+806,2023,75    ,Jetta GLI                                      
+807,2023,75    ,Taos                                           
+808,2023,75    ,Taos 4MOTION                                   
+809,2023,75    ,Tiguan 4MOTION                                 
+810,2023,75    ,Tiguan R-Line 4MOTION                          
+811,2023,76         ,S60 B5                                         
+812,2023,76         ,S60 B5 AWD                                     
+813,2023,76         ,S90 B6 AWD                                     
+814,2023,76         ,V60 B6 AWD                                     
+815,2023,76         ,V60 CC B5 AWD                                  
+816,2023,76         ,V90 CC B6 AWD                                  
+817,2023,76         ,XC40 B4 AWD                                    
+818,2023,76         ,XC40 B5 AWD                                    
+819,2023,76         ,XC60 B5 AWD                                    
+820,2023,76         ,XC60 B6 AWD                                    
+821,2023,76         ,XC90 B5 AWD                                    
+822,2023,76         ,XC90 B6 AWD                                    
