@@ -35,6 +35,9 @@ En lo que respecta al proceso de trabajo, el diagrama que sigue ofrece una vista
 
 ![link](https://github.com/Blackie279/Taxis-CO2/blob/main/src/flujo_del_dato.drawio.jpg)
 
+## 6. Demostracion de carga incremental automatizada
+[video](https://drive.google.com/drive/folders/1SScuaGZbWpoKabwg9Mp-PzlWGMCdwqzF)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Desarrollo de un Minimum Viable Product (MVP) de Dashboard:**
