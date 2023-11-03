@@ -31,7 +31,7 @@ El siguiente diagrama proporciona un desglose detallado del pipeline que ilustra
 
 ## 5. Flujo de Trabajo <a name="workflow"></a>
 
-En lo que respecta al proceso de trabajo, el diagrama que sigue ofrece una vista integral del ciclo completo de vida de los datos en el proyecto. Se inicia con la recopilación de datos, seguida por su integración y carga en el Data Warehouse. Finalmente, se incluyen los distintos procesos que accederán a la base de datos: en un extremo se halla el Modelo de Machine Learning, que emplea Scikit-Learn como su herramienta, mientras que en el otro se encuentra la generación de informes y visualizaciones, con el objetivo de crear un panel de control utilizando PowerBI.
+En lo que respecta al proceso de trabajo, el diagrama que sigue ofrece una vista integral del ciclo completo de vida de los datos en el proyecto. Se inicia con la recopilación de datos, seguida por su integración y carga en el Data Warehouse. Finalmente, se incluyen los distintos procesos que accederán a la base de datos: en un extremo se halla el Modelo de Machine Learning, mientras que en el otro se encuentra la generación de informes y visualizaciones, con el objetivo de crear un panel de control utilizando PowerBI.
 
 ![link](https://github.com/Blackie279/Taxis-CO2/blob/main/src/flujo_del_dato.drawio.jpg)
 
