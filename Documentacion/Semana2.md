@@ -20,7 +20,7 @@ Cuando implementamos la estructura de almacenamiento, optamos por utilizar un Da
 
 ## 3. Diccionario de datos <a name="dicc"></a>
 
-Con base en el diagrama E-R mencionado previamente, hemos creado un diccionario de datos para aclarar la interpretación de la información y verificar su precisión. Puedes consultarlo en el siguiente.
+Con base en el diagrama E-R mencionado previamente, hemos creado un diccionario de datos para aclarar la interpretación de la información y verificar su precisión. Puedes consultarlo en el siguiente <a href="https://docs.google.com/spreadsheets/d/1_pxZQv3JRjj9DHeybBydsopLY19l4C56_gNALMMu5KQ/edit#gid=0">link</a>.
 
 
 ## 4. Pipeline <a name="dw"></a>
