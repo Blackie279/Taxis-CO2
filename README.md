@@ -51,10 +51,7 @@ GCP se destaca como una de las principales plataformas de servicios en la nube, 
 
 - **Machine Learning e Inteligencia Artificial:** GCP nos brinda herramientas predefinidas por Google para implementar soluciones de Machine Learning e Inteligencia Artificial.
 
-### Prefect.io 
-Es una herramienta que desempeña un papel fundamental en nuestro proyecto al gestionar y coordinar las tareas y flujos de trabajo de manera eficiente. Permite la automatización y programación de tareas de manera sencilla y flexible, lo que es esencial para garantizar la fluidez en la transformación y procesamiento de datos.
-
-<img src="src/diagrama.drawio.png" alt="pipeline">
+<img src="src/technology_stack2.png" alt="pipeline">
 
 
 ## Roles
