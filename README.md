@@ -7,17 +7,25 @@ Este proyecto tiene como objetivo proporcionar un análisis detallado sobre el m
 
 ## Key Performance Indicators (KPIs)
 
-### 1. Comparación de la Cuota de Mercado
-El KPI de cuota de mercado compara la participación de mercado entre taxis amarillos y verdes en la ciudad de Nueva York. Este indicador proporciona información crucial sobre la competencia en el sector.
+### 1. Mantenimiento de la Cuota de Mercado de Taxis Verdes
+**Descripción:** Este indicador mide la capacidad de mantener la cuota de mercado de los taxis verdes en la industria de servicios de taxi.
 
-### 2. Promedio de Consumo de Combustible
-Este KPI evalúa el consumo promedio de combustible tanto en entornos urbanos como en carreteras. Proporciona información esencial para comprender la eficiencia energética de los vehículos.
+**Objetivo:** El objetivo es mantener una cuota de mercado de los taxis verdes del 40% o superior en un período de 12 meses.
 
-### 3. Rentabilidad por Kilometraje de Batería
-El KPI de rentabilidad por kilometraje de batería analiza la eficiencia y rentabilidad de los vehículos eléctricos en comparación con los vehículos de combustión interna.
+### 2. Reducción del Consumo de Combustible en Modelos no Eficientes
+**Descripción:** Este indicador evalúa la capacidad de reducir el consumo de combustible en los modelos menos eficientes de tu flota de vehículos.
+
+**Objetivo:** Reducir el consumo promedio de combustible en los modelos menos eficientes en un 10% en un período de 12 meses.
+
+### 3. Eficiencia de Kilometraje por Costo en Vehículos Eléctricos
+**Descripción:** Este indicador mide la eficiencia del kilometraje en relación con el costo en los vehículos eléctricos.
+
+**Objetivo:** Mantener un rendimiento constante en la Eficiencia de Kilometraje por Costo a lo largo de los próximos 12 meses. Esto implica que, si actualmente se obtiene un valor determinado en el KPI, el objetivo es asegurarse de que ese valor se mantenga estable sin disminuir. Esto garantiza que la eficiencia del vehículo no se vea afectada.
 
 ### 4. Medición de Ozono
-Este KPI evalúa las mediciones de ozono en áreas específicas de la ciudad de Nueva York. Proporciona información sobre la calidad del aire y la sostenibilidad de los vehículos.
+**Descripción:** Este KPI evalúa las mediciones de ozono en áreas específicas de la ciudad de Nueva York. Proporciona información sobre la calidad del aire y la sostenibilidad de los vehículos.
+
+**Objetivo:** Objetivo: Mantener los porcentajes de Ozono por debajo del 20% de aumento, por los siguientes 24 meses. Esto garantizará una mejor calidad del aire y respaldará la sostenibilidad de los vehículos en la ciudad.
 
 ## Metodología
 
@@ -28,13 +36,6 @@ En esta etapa inicial, se enfoca en comprender a fondo la problemática, estable
 
 ### Semana 2: Análisis Profundo de los Datos e Informes
 El trabajo de la segunda semana del proyecto estuvo orientado a la ingeniería de datos, a la extracción, limpieza y carga de los mismos a la estructura de Data Warehouse elegida
-
-### Semana 3: Selección, Preparación y Entrenamiento de un Modelo de Machine Learning
-En esta etapa, se selecciona un modelo de machine learning adecuado, se preparan los datos y se procede a entrenar el modelo para llevar a cabo las predicciones y análisis necesarios.
-
-### Semana 4: Entrega del Análisis Completo, Funcional y Documentado
-En la última semana, se finaliza el análisis, se verifica su funcionalidad y se documenta de manera detallada para su presentación a la empresa interesada.
-
 
 ## Herramientas Utilizadas
 
