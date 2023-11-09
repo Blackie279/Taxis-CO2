@@ -3,7 +3,7 @@
 <img src="src/taxi.jpeg" alt="imagen de taxi">
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo proporcionar un análisis detallado sobre el mercado de taxis en la ciudad de Nueva York, centrándose en aspectos clave como la cuota de mercado entre taxis amarillos y verdes, el consumo de combustible, la rentabilidad por kilometraje de batería y las mediciones de ozono. El análisis está diseñado para brindar información valiosa a empresas interesadas en ingresar a este mercado.
+Este proyecto tiene como objetivo proporcionar un análisis detallado sobre el mercado de taxis en la ciudad de Nueva York, centrándose en aspectos clave como la cuota de mercado entre taxis amarillos y verdes, el consumo de combustible, consumo electrico de vehículos eléctricos y las mediciones de dióxido de carbono. El análisis está diseñado para brindar información valiosa a empresas interesadas en ingresar a este mercado.
 
 ## Key Performance Indicators (KPIs)
 
@@ -17,25 +17,27 @@ Este proyecto tiene como objetivo proporcionar un análisis detallado sobre el m
 
 **Objetivo:** Reducir el consumo promedio de combustible en los modelos menos eficientes en un 10% en un período de 12 meses.
 
-### 3. Eficiencia de Kilometraje por Costo en Vehículos Eléctricos
-**Descripción:** Este indicador mide la eficiencia del kilometraje en relación con el costo en los vehículos eléctricos.
+### 3. Reducción del consumo de electricidad en Vehículos Eléctricos
+**Descripción:** Este indicador mide la eficiencia del kilometraje en relación con el costo energético de los vehículos eléctricos.
 
-**Objetivo:** Mantener un rendimiento constante en la Eficiencia de Kilometraje por Costo a lo largo de los próximos 12 meses. Esto implica que, si actualmente se obtiene un valor determinado en el KPI, el objetivo es asegurarse de que ese valor se mantenga estable sin disminuir. Esto garantiza que la eficiencia del vehículo no se vea afectada.
+**Objetivo:** Reducir el consumo de electricidad, comparando en un periódo de 12 meses. El objetivo es asegurarse de que ese valor se mantenga estable o que disminuya. 
 
-### 4. Medición de Ozono
-**Descripción:** Este KPI evalúa las mediciones de ozono en áreas específicas de la ciudad de Nueva York. Proporciona información sobre la calidad del aire y la sostenibilidad de los vehículos.
+### 4. Medición de Dióxido de carbono
+**Descripción:** Este KPI evalúa la producción de dióxido de carbono en los viajes realizados en la ciudad de Nueva York. Proporciona información sobre la cantidad que se libera y la sostenibilidad de los vehículos.
 
-**Objetivo:** Objetivo: Mantener los porcentajes de Ozono por debajo del 20% de aumento, por los siguientes 24 meses. Esto garantizará una mejor calidad del aire y respaldará la sostenibilidad de los vehículos en la ciudad.
+**Objetivo:** Objetivo: Mantener los porcentajes de dióxido de carbono por debajo del 20% de aumento, por los siguientes 12 meses. Esto garantizará una mejor calidad del aire y respaldará la sostenibilidad de los vehículos en la ciudad.
 
 ## Metodología
 
-El análisis se lleva a cabo en un período de cuatro semanas, distribuido de la siguiente manera:
+El análisis se lleva a cabo en un período de tres semanas, distribuido de la siguiente manera:
 
 ### Semana 1: Comprensión de la Problemática y Definición de Objetivos
 En esta etapa inicial, se enfoca en comprender a fondo la problemática, establecer los objetivos específicos del proyecto y poner en marcha las actividades necesarias.
 
 ### Semana 2: Análisis Profundo de los Datos e Informes
-El trabajo de la segunda semana del proyecto estuvo orientado a la ingeniería de datos, a la extracción, limpieza y carga de los mismos a la estructura de Data Warehouse elegida
+El trabajo de la segunda semana del proyecto estuvo orientado a la ingeniería de datos, a la extracción, limpieza y carga de los mismos a la estructura de Data Warehouse elegida, desarrollo de productos minimos viables de modelo de machine learning y dashboard.
+
+### Semana 3: Entrega de producto de machine learning y dashboard
 
 ## Herramientas Utilizadas
 
