@@ -77,7 +77,7 @@ En la tercera presentación, podemos apreciar la distribución del consumo de ga
 
 La cuarta presentación revisa aspectos similares a la anterior, pero ahora centrados en los vehículos eléctricos y sus propiedades, como la eficiencia de la batería y el costo del vehículo. Esto nos permite evaluar y categorizar qué vehículos podríamos seguir adquiriendo y cuáles podrían ser reemplazados para reducir gastos innecesarios.
 
-<img src="src/dashboard_5.png">
+<img src="src/dashboard_6.png">
 
 Finalmente, en esta presentación, observamos cómo se ha llevado a cabo la producción de CO2 en Nueva York. Debido a la considerable cantidad de viajes en Manhattan, se generan una cantidad significativa de toneladas que deben ser consideradas en comparación con las demás ciudades aledañas.
 
