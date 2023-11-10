@@ -73,7 +73,7 @@ En cuanto al ingreso de los taxis verdes, notamos una gran diferencia en compara
 
 En la tercera presentación, podemos apreciar la distribución del consumo de gasolina de los vehículos a combustión y la generación de CO2 que representan, agrupándolos según su precio en relación con su nivel de contaminación.
 
-<img src="src/dashboard_4.png">
+<img src="src/dashboard_5.png">
 
 La cuarta presentación revisa aspectos similares a la anterior, pero ahora centrados en los vehículos eléctricos y sus propiedades, como la eficiencia de la batería y el costo del vehículo. Esto nos permite evaluar y categorizar qué vehículos podríamos seguir adquiriendo y cuáles podrían ser reemplazados para reducir gastos innecesarios.
 
