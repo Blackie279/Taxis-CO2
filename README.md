@@ -55,6 +55,31 @@ GCP se destaca como una de las principales plataformas de servicios en la nube, 
 
 <img src="src/technology_stack2.png" alt="pipeline">
 
+## Dashboard
+
+Como parte del producto, se creó un panel interactivo utilizando la herramienta Looker Studio (GCP). Los datos se alimentaron en BigQuery (GCP) con el fin de organizar la información de las tablas en vistas y reducir los tiempos de espera al actualizar los gráficos en Looker Studio.
+
+<img src="src/dashboard_1.png">
+
+En esta primera diapositiva, observamos los cuatro KPI en los que encontramos interés, identificando oportunidades para analizar y mejorar ingresos, así como reducir costos
+
+Las siguientes presentaciones son material de apoyo visual para el cliente.
+
+<img src="src/dashboard_2.png">
+
+En cuanto al ingreso de los taxis verdes, notamos una gran diferencia en comparación con los taxis amarillos, ya que la gran mayoría de los viajes son realizados por estos últimos. El mapa que se presenta representa la zona donde se llevan a cabo la mayoría de los viajes.
+
+<img src="src/dashboard_3.png">
+
+En la tercera presentación, podemos apreciar la distribución del consumo de gasolina de los vehículos a combustión y la generación de CO2 que representan, agrupándolos según su precio en relación con su nivel de contaminación.
+
+<img src="src/dashboard_4.png">
+
+La cuarta presentación revisa aspectos similares a la anterior, pero ahora centrados en los vehículos eléctricos y sus propiedades, como la eficiencia de la batería y el costo del vehículo. Esto nos permite evaluar y categorizar qué vehículos podríamos seguir adquiriendo y cuáles podrían ser reemplazados para reducir gastos innecesarios.
+
+<img src="src/dashboard_5.png">
+
+Finalmente, en esta presentación, observamos cómo se ha llevado a cabo la producción de CO2 en Nueva York. Debido a la considerable cantidad de viajes en Manhattan, se generan una cantidad significativa de toneladas que deben ser consideradas en comparación con las demás ciudades aledañas.
 
 ## Roles
 
